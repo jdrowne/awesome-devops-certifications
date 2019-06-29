@@ -92,7 +92,39 @@ This is a list of curated certifications related to DevOps.
 * C++ Certified Professional Programmer
 
 ### Security
+
+#### General
+* Certified Cloud Security Professional (CCSP)
+* Certified Information Systems Security Professional (CISSP)
+* CompTIA Advanced Security Practitioner (CASP+)
 * CompTIA Security+ CE
+
+#### Auditing
+* Certified Information Systems Auditor (CISA)
+* GIAC Systems and Network Auditor (GSNA)
+
+#### Cyber Defense
+* GIAC Security Essentials Certification (GSEC)
+* GIAC Certified Intrusion Analyst (GCIA)
+* GIAC Information Security Fundamentals (GISF)
+* GIAC Certified Enterprise Defender (GCED)
+* GIAC Continuous Monitoring Certification (GMON)
+* GIAC Certified Perimeter Protection Analyst (GPPA)
+* GIAC Critical Controls Certification (GCCC)
+* GIAC Certified Detection Analyst (GCDA)
+
+#### Forensics
+* GIAC Certified Forensic Analyst (GCFA)
+* GIAC Network Forensic Analyst (GNFA)
+
+#### Intelligence
+* GIAC Cyber Threat Intelligence (GCTI)
+
+#### Penetration Testing
+* Certified Ethical Hacker (CEH)
+* GIAC Certified Incident Handler (GCIH)
+* GIAC Penetration Tester (GPEN)
+* Offensive Security Certified Professional (OSCP)
 
 ### Testing
 
