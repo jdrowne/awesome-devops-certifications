@@ -14,6 +14,7 @@ This is a list of curated certifications related to DevOps.
   * [Google Cloud](#google-cloud)
   * [Hybrid Cloud](#hybrid-cloud)
   * [Linux](#linux)
+  * [Microsoft](#microsoft)
   * [Networking](#networking)
   * [Programming Languages](#programming-languages)
   * [Security](#security)
@@ -105,6 +106,11 @@ This is a list of curated certifications related to DevOps.
   * Red Hat Certified Specialist in Identity Management
   * Red Hat Certified Specialist in Security: Linux
 
+### Microsoft
+* Microsoft Certified Solutions Associate (MCSA): Windows Server 2016
+* Microsoft Technology Associate (MTA): Windows Operating System Fundamentals
+* Microsoft Technology Associate (MTA): Windows Server Administration Fundamentals
+
 ### Networking
 * CompTIA Network+ CE
 
@@ -113,6 +119,7 @@ This is a list of curated certifications related to DevOps.
 * C Certified Professional Programmer (CLP)
 * C++ Certified Associate Programmer (CPA)
 * C++ Certified Professional Programmer
+* Microsoft Technology Associate (MTA): Introduction to Programming Using Python
 
 ### Security
 
