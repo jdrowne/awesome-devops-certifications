@@ -35,6 +35,9 @@ This is a list of curated certifications related to DevOps.
 ## Technical
 
 ### Agile
+* Certified SAFe DevOps Practitioner
+* Certified SAFe Practitioner
+* Certified Scrum Developer (CSD)
 * Certified Scrum Master (CSM)
 * PMI Agile Certified Practitioner (PMI-ACP)
 
