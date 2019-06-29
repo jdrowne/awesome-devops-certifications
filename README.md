@@ -7,6 +7,7 @@ This is a list of curated certifications related to DevOps.
   * [AWS](#aws)
   * [Azure](#azure)
   * [CI/CD](#ci-cd)
+  * [Configuration Management](#configuration-management)
   * [Containers](#containers)
   * [DevOps](#devops)
   * [Enterprise Architecture](#enterprise-architecture)
