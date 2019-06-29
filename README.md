@@ -32,8 +32,9 @@ This is a list of curated certifications related to DevOps.
 * Certified Scrum Master (CSM)
 
 ### Architecture
-* DoDAF
-* TOGAF
+* Associate Certified Enterprise Architect (ACEA) Green Belt
+* Certified Enterprise Architect (CEA) Black Belt
+* Open Group TOGAF certification
 
 ### AWS
 * AWS Certified Cloud Practitioner (CCP)
