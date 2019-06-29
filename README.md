@@ -127,6 +127,11 @@ This is a list of curated certifications related to DevOps.
 * Offensive Security Certified Professional (OSCP)
 
 ### Testing
+* ISTQB Advanced Security Testing
+* ISTQB Advanced Test Automation Engineer
+* ISTQB Agile Testing
+* ISTQB Foundation Level (CTFL)
+* ISTQB Performance Testing
 
 ## Soft Skills
 
