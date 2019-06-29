@@ -83,6 +83,11 @@ This is a list of curated certifications related to DevOps.
 * Open Group TOGAF certification
 
 ### Google Cloud
+* Google Cloud Associate Cloud Engineer
+* Google Cloud Professional Cloud Architect
+* Google Cloud Professional Data Engineer
+* Google Cloud Professional Cloud Network Engineer
+* Google Cloud Professional Cloud Security Engineer
 
 ### Hybrid Cloud
 * Red Hat Certified Specialist in Hybrid Cloud Management
