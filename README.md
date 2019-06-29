@@ -128,6 +128,7 @@ This is a list of curated certifications related to DevOps.
 
 ### Testing
 * ISTQB Advanced Security Testing
+* ISTQB Advanced Technical Test Analyst
 * ISTQB Advanced Test Automation Engineer
 * ISTQB Agile Testing
 * ISTQB Foundation Level (CTFL)
