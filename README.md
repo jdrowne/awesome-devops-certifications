@@ -13,7 +13,6 @@ This is a list of curated certifications related to DevOps.
   * [Enterprise Architecture](#enterprise-architecture)
   * [Google Cloud](#google-cloud)
   * [Hybrid Cloud](#hybrid-cloud)
-  * [Incident Management](#incident-management)
   * [Linux](#linux)
   * [Networking](#networking)
   * [Programming Languages](#programming-languages)
@@ -93,8 +92,6 @@ This is a list of curated certifications related to DevOps.
 ### Hybrid Cloud
 * Red Hat Certified Specialist in Hybrid Cloud Management
 * Red Hat Certified Specialist in OpenShift Administration
-
-### Incident Management
 
 ### Linux
 * Linux Foundation Certified Engineer (LFCE)
