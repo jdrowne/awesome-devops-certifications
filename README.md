@@ -85,6 +85,9 @@ This is a list of curated certifications related to DevOps.
 ### Incident Management
 
 ### Linux
+* Linux Foundation Certified Engineer (LFCE)
+* Linux Foundation Certified System Administrator (LFCS)
+* LPI Linux Essentials
 * Red Hat Certified System Administrator (RHCSA)
 * Red Hat Certified Engineer (RHCE)
 * Red Hat Certified Architect (RHCA)
