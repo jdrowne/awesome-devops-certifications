@@ -9,6 +9,7 @@ This is a list of curated certifications related to DevOps.
   * [CI/CD](#ci-cd)
   * [Configuration Management](#configuration-management)
   * [Containers](#containers)
+  * [Databases](#databases)
   * [DevOps](#devops)
   * [Enterprise Architecture](#enterprise-architecture)
   * [Google Cloud](#google-cloud)
@@ -74,6 +75,14 @@ This is a list of curated certifications related to DevOps.
 ### Containers
 * Certified Kubernetes Administrator (CKA)
 * Docker Certified Associate (DCA)
+
+### Databases
+* EDB PostgreSQL DBA Certification - Associate
+* EDB PostgreSQL DBA Certification - Professional
+* MariaDB Certification
+* Microsoft Certified Solutions Associate (MCSA):
+* Microsoft Technology Associate (MTA): Database Fundamentals
+* MongoDB Certified DBA Associate
 
 ### DevOps
 * LPI DevOps Tools Engineer
