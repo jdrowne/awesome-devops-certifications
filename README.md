@@ -4,12 +4,12 @@ This is a list of curated certifications related to DevOps.
 ## Table of Contents
 - [Technical](#technical-books)
   * [Agile](#agile)
-  * [Architecture](#architecture)
   * [AWS](#aws)
   * [Azure](#azure)
   * [CI/CD](#ci-cd)
   * [Containers](#containers)
   * [DevOps](#devops)
+  * [Enterprise Architecture](#enterprise-architecture)
   * [Google Cloud](#google-cloud)
   * [Hybrid Cloud](#hybrid-cloud)
   * [Incident Management](#incident-management)
