@@ -44,7 +44,6 @@ This is a list of curated certifications related to DevOps.
 ### AWS
 * AWS Certified Cloud Practitioner (CCP)
 * AWS Certified Solutions Architect - Associate (CSAA)
-* AWS Certified Developer - Associate (CDA)
 * AWS Certified SysOps Administrator - Associate
 * AWS Certified Solutions Architect - Professional
 * AWS DevOps Engineer - Professional
@@ -54,6 +53,13 @@ This is a list of curated certifications related to DevOps.
 * AWS Certified Security - Specialty
 
 ### Azure
+* Microsoft Certified Azure Fundamentals
+* Microsoft Certified: Azure Administrator Associate
+* Microsoft Certified: Azure AI Engineer Associate
+* Microsoft Certified: Azure Data Engineer Associate
+* Microsoft Certified: Azure DevOps Engineer Expert
+* Microsoft Certified: Azure Security Engineer Associate
+* Microsoft Certified: Azure Solutions Architect Expert
 
 ### CI/CD
 * Certified Jenkins Engineer (CJE)
