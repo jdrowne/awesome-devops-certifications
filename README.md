@@ -36,6 +36,7 @@ This is a list of curated certifications related to DevOps.
 
 ### Agile
 * Certified Scrum Master (CSM)
+* PMI Agile Certified Practitioner (PMI-ACP)
 
 ### AWS
 * AWS Certified Cloud Practitioner (CCP)
@@ -144,10 +145,16 @@ This is a list of curated certifications related to DevOps.
 ## Soft Skills
 
 ### Project Management
+* PMI Agile Certified Practitioner (PMI-ACP)®
+* PMI Certified Associate in Project Management (CAPM)
+* PMI Project Management Professional (PMP)
 
 ### Product Management
+* AIPMM Agile Certified Product Manager and Product Owner (ACPMPO)
+* AIPMM Certified Product Manager (CPM)
 
 ### Training
+* Associate Professional in Talent Development (APTD)
 * Certified Professional in Learning and Performance (CPLP)
 
 ## Contributing
