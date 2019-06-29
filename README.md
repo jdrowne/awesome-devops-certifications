@@ -12,6 +12,7 @@ This is a list of curated certifications related to DevOps.
   * [Databases](#databases)
   * [DevOps](#devops)
   * [Enterprise Architecture](#enterprise-architecture)
+  * [Fundamentals](#fundamentals)
   * [Google Cloud](#google-cloud)
   * [Hybrid Cloud](#hybrid-cloud)
   * [Linux](#linux)
@@ -91,6 +92,11 @@ This is a list of curated certifications related to DevOps.
 * Associate Certified Enterprise Architect (ACEA) Green Belt
 * Certified Enterprise Architect (CEA) Black Belt
 * Open Group TOGAF certification
+
+### Fundamentals
+* Comptia A+ CE
+* CompTIA Cloud+
+* CompTIA IT Fundamentals
 
 ### Google Cloud
 * Google Cloud Associate Cloud Engineer
