@@ -11,6 +11,7 @@ This is a list of curated certifications related to DevOps.
   * [Containers](#containers)
   * [DevOps](#devops)
   * [Google Cloud](#google-cloud)
+  * [Hybrid Cloud](#hybrid-cloud)
   * [Incident Management](#incident-management)
   * [Linux](#linux)
   * [Networking](#networking)
@@ -28,31 +29,70 @@ This is a list of curated certifications related to DevOps.
 ## Technical
 
 ### Agile
+* Certified Scrum Master (CSM)
 
 ### Architecture
+* DoDAF
+* TOGAF
 
 ### AWS
+* AWS Certified Cloud Practitioner (CCP)
+* AWS Certified Solutions Architect - Associate (CSAA)
+* AWS Certified Developer - Associate (CDA)
+* AWS Certified SysOps Administrator - Associate
+* AWS Certified Solutions Architect - Professional
+* AWS DevOps Engineer - Professional
+* AWS Certified Advanced Networking - Specialty
+* AWS Certified Big Data - Specialty
+* AWS Certified Machine Learning - Specialty
+* AWS Certified Security - Specialty
 
 ### Azure
 
 ### CI/CD
+* Certified Jenkins Engineer (CJE)
+
+### Configuration Management
+* Certified Chef Developer
+* Puppet Certified Professional
+* Red Hat Certified Specialist in Ansible Automation
+* SaltStack Certified Engineer (SSCE)
 
 ### Containers
+* Certified Kubernetes Administrator (CKA)
+* Docker Certified Associate (DCA)
 
 ### DevOps
+* LPI DevOps Tools Engineer
 
 ### Google Cloud
+
+### Hybrid Cloud
+* Red Hat Certified Specialist in Hybrid Cloud Management
+* Red Hat Certified Specialist in OpenShift Administration
 
 ### Incident Management
 
 ### Linux
+* Red Hat Certified System Administrator (RHCSA)
+* Red Hat Certified Engineer (RHCE)
+* Red Hat Certified Architect (RHCA)
+  * Red Hat Certified Specialist in Linux Diagnostics and Troubleshooting
+  * Red Hat Certified Specialist in Linux Performance Tuning
+  * Red Hat Certified Specialist in Identity Management
+  * Red Hat Certified Specialist in Security: Linux
 
 ### Networking
 * CompTIA Network+ CE
 
 ### Programming Languages
+* C Programming Language Certified Associate (CLA)
+* C Certified Professional Programmer (CLP)
+* C++ Certified Associate Programmer (CPA)
+* C++ Certified Professional Programmer
 
 ### Security
+* CompTIA Security+ CE
 
 ### Testing
 
@@ -63,6 +103,7 @@ This is a list of curated certifications related to DevOps.
 ### Product Management
 
 ### Training
+* Certified Professional in Learning and Performance (CPLP)
 
 ## Contributing
 Submit a pull request.
