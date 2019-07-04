@@ -81,7 +81,7 @@ This is a list of curated certifications related to DevOps.
 * EDB PostgreSQL DBA Certification - Associate
 * EDB PostgreSQL DBA Certification - Professional
 * MariaDB Certification
-* Microsoft Certified Solutions Associate (MCSA):
+* Microsoft Certified Solutions Associate (MCSA): SQL 2016 Database Administration
 * Microsoft Technology Associate (MTA): Database Fundamentals
 * MongoDB Certified DBA Associate
 
