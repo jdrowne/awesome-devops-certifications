@@ -130,10 +130,11 @@ This is a list of curated certifications related to DevOps.
 * CompTIA Network+ CE
 
 ### Programming Languages
-* C Programming Language Certified Associate (CLA)
-* C Certified Professional Programmer (CLP)
-* C++ Certified Associate Programmer (CPA)
-* C++ Certified Professional Programmer
+* [C Programming Language Certified Associate](https://cppinstitute.org/cla-c-programming-language-certified-associate) (CLA)
+* [C Certified Professional Programmer](https://cppinstitute.org/clp-c-certified-professional-programmer) (CLP)
+* [Python Certified Entry-level  Programmer](https://pythoninstitute.org/certification/pcep-certification-entry-level/) (PCEP)
+* [Python Certified Associate in Programming](https://pythoninstitute.org/certification/pcap-certification-associate/) (PCAP)
+* [Python Certified Professional in Programming](https://pythoninstitute.org/certification/pcpp-certification-professional/) (PCPP)
 * Microsoft Technology Associate (MTA): Introduction to Programming Using Python
 
 ### Security
