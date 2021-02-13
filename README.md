@@ -75,6 +75,8 @@ This is a list of curated certifications related to DevOps.
 
 ### Containers
 * Certified Kubernetes Administrator (CKA)
+* Certified Kubernetes Application Developer (CKAD)
+* Certified Kubernetes Security Specialist (CKS)
 * Docker Certified Associate (DCA)
 
 ### Databases
@@ -86,7 +88,7 @@ This is a list of curated certifications related to DevOps.
 * MongoDB Certified DBA Associate
 
 ### DevOps
-* LPI DevOps Tools Engineer
+* [LPI DevOps Tools Engineer](https://www.lpi.org/our-certifications/exam-701-objectives)
 
 ### Enterprise Architecture
 * Associate Certified Enterprise Architect (ACEA) Green Belt
